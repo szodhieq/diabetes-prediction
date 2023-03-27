@@ -1,2 +1,2 @@
-# diabetes-prediction
-python
+# DiabetesPredictin
+A Diabetes Prediction WebApp using Machine Learning.
